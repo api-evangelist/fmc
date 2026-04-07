@@ -1,7 +1,11 @@
 aid: fmc
-url: https://raw.githubusercontent.com/api-evangelist/fmc/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/fmc/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.fmc.com
+description: >-
+  FMC has deep roots in the food production system worldwide – learn more about our
+  latest advances in the future of agriculture.
