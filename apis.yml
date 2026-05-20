@@ -26,6 +26,8 @@ tags:
   - Industrial
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/fmc-corporation
   - type: Website
     url: https://www.fmc.com
   - type: About
