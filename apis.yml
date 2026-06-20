@@ -13,7 +13,7 @@ description: >-
   abbreviation for the legacy FMC Technologies brand (now TechnipFMC),
   which is tracked separately under the fmc-technologies repository.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/fmc/refs/heads/main/apis.yml
 created: '2026-03-24'
