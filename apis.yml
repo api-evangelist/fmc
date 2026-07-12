@@ -27,12 +27,16 @@ tags:
   - Fortune 1000
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/fmc-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/fmc-corporation
   - type: Website
     url: https://www.fmc.com
   - type: About
     url: https://www.fmc.com/en/about-us
+  - url: https://www.fmc.com/en/news-media/company-news
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
